@@ -1,0 +1,14 @@
+{
+    "steps_labels": ["Dane osobowe", "Adres wysyłki", "Sposób dostawy", "Szczegóły płatności", "Podsumowanie zamówienia"],
+    "shipping_methods": [
+        {"id": 1, "name": "Poczta Polska", "img": "/assets/poczta_polska.jpg", "price": "12,99 zł"},
+        {"id": 2, "name": "DHL", "img": "/assets/dhl.jpg", "price": "10,99 zł"},
+        {"id": 3, "name": "DPD", "img": "/assets/dpd.jpg", "price": "11,99 zł"},
+        {"id": 4, "name": "InPost", "img": "/assets/inpost.jpg", "price": "8,99 zł"}
+    ],
+    "reviews": [
+        {"author": "John Doe", "date": "22-01-2021", "text": "This is awesome!", "rating": 5},
+        {"author": "Emily Thomson", "date": "10-12-2020", "text": "Very good product but it has some weaknesses", "rating": 3},
+        {"author": "Mark Weber", "date": "12.11.2020", "text": "I realy like it!", "rating": 4}
+    ]
+}
